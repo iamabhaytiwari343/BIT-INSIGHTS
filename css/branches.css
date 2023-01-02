@@ -1,6 +1,9 @@
 .cards{
     box-sizing: border-box;
-    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+#cse{
     margin: 5px;
     padding: 5px;
 }
