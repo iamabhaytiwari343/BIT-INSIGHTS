@@ -1,12 +1,27 @@
-.faculty{
+/* .faculty {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
-.card{
-    margin: 5px;
-    padding: 5px;
-    box-sizing: content-box;
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 300px;
     border-radius: 10px;
+
+}
+.card-img-top{
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 300px; 
+} */
+.faculty{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card{
+    margin: auto;
 }
